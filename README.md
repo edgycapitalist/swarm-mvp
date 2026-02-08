@@ -1,2 +1,2 @@
-# swarm-mvp
+# SWARM MVP
 SWARM MVP 
